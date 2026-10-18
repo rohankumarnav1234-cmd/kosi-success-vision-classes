@@ -1,0 +1,9 @@
+{
+  "name": "Kosi Success Vision Classes",
+  "short_name": "Kosi Classes",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f4f7fc",
+  "theme_color": "#102f63",
+  "orientation": "any"
+}
